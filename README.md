@@ -1,1 +1,1 @@
-# open-cv
+Câu lệnh cơ bản về OpenCV
